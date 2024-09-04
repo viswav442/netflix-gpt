@@ -1,7 +1,11 @@
 # Netflix Gpt
 
-- npx create-react-app
+- create-react-app
 - Configured Tailwindcss
+- Header
+- Routing
+- Login
+- SignUp
 
 
 
