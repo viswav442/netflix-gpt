@@ -6,8 +6,12 @@
 - Routing
 - Login
 - SignUp
-
-
+- Form Validation
+- useRef Hook
+- Firebase Setup
+- Create Sign up user account
+- Implement sign in user api
+- Created the redux store with userSlice
 
 # Features
 
